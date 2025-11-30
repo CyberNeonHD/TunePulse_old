@@ -1,5 +1,7 @@
-# TunePulse
-### Work in progress
-TunePulse is a place where you can check out your Spotify listening stats without it keeping any of your personal info. It's an open source project. I'm open to any suggestions you might have, your input is crucial in making TunePulse better.
+# TunePulse Depricated
+## relaunching the project under a different code.
 
-### Update: Project stable and revived. Currently aiming to release V2 in June.
+TunePulse V1 was pure HTML, CSS and JS. 
+TunePulse V2 was a modern re-launch in Sveltekit, TailwindCSS, TypeScript and Skeleton, but never really took of coding wise. Sveltkit was tough, major upgrades made me re-write the code again and again.
+I also learned TailwindCSS, learned Typescript and then needed to handle Skeleton UI V2 upgrade to V3. It was too much.
+However, it's a project I don't want to abandone, so here we are TunePulse V3 is getting build as we speak. This time in Vue.JS, TailwindCSS and JS instead of Typescript. Simple and powerfull.
